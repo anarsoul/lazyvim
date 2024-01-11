@@ -6,3 +6,4 @@ vim.opt.relativenumber = false
 vim.opt.expandtab = false
 vim.opt.shiftwidth = 8
 vim.opt.tabstop = 8
+vim.g.autoformat = false
